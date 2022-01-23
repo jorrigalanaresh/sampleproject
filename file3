@@ -1,1 +1,38 @@
-file3 created
+[33mcommit fac9dbe97e20608e7eac4ed0c1b2ea1754513918[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: naresh <jorrigalanaresh@gmail.com>
+Date:   Sun Jan 23 14:22:49 2022 +0530
+
+    File5
+
+[33mcommit 74b089aed99d27213e6ca8e7f43b123e1b38672d[m
+Author: naresh <jorrigalanaresh@gmail.com>
+Date:   Sun Jan 23 14:01:43 2022 +0530
+
+    file4
+
+[33mcommit d6ac2e7bc858a1d8c42de7769f1820a85f015260[m
+Merge: 4201997 1d927fc
+Author: jorrigalanaresh <97928733+jorrigalanaresh@users.noreply.github.com>
+Date:   Sun Jan 23 13:43:46 2022 +0530
+
+    Merge pull request #1 from jorrigalanaresh/staging
+    
+    file3 created
+
+[33mcommit 1d927fce4fd1c1454469145cdf1175f948b62919[m[33m ([m[1;31morigin/staging[m[33m)[m
+Author: root <root@ip-172-31-45-169.ap-south-1.compute.internal>
+Date:   Sun Jan 23 08:07:16 2022 +0000
+
+    file3 created
+
+[33mcommit 4201997628235e60410b2fa6f025910a55a24998[m
+Author: root <root@ip-172-31-45-169.ap-south-1.compute.internal>
+Date:   Sun Jan 23 07:59:41 2022 +0000
+
+    file file2 created
+
+[33mcommit daa255fe73c4a48e4e12877f41bcf0e86f3d3fc9[m
+Author: jorrigalanaresh <97928733+jorrigalanaresh@users.noreply.github.com>
+Date:   Tue Jan 18 08:12:59 2022 +0530
+
+    Initial commit
